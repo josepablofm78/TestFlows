@@ -31,7 +31,7 @@ Please fill in the following basic information about yourself
 You can also provide us more information you think could be relevant for us to check your identity or your use case.  
 
 
-###### _Note: If you are not familiarice with markdown language, use the Preview tab to make sure the tables are properly filled_
+###### _Note: If you are not familiar with markdown language, use the Preview tab to make sure the tables are properly filled_
 
 
 ### Disclaimer
