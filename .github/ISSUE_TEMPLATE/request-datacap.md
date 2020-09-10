@@ -36,7 +36,9 @@ The  next information is optional but it will help us to know you better and tru
 You can also provide us more information you think could be relevant for us to check your identity or your use case 
 
 | Information                       | Value  |
-| ------------------------| ------------------------ |     
+| ------------------------| ------------------------ |    
+|             |             | 
+|             |             | 
 
 
 
