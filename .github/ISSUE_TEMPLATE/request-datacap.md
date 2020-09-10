@@ -25,7 +25,7 @@ Please fill in the following basic information about yourself.
 
 **Contact Information**: 
 
-**Links to prior approvals:
+**Links to prior approvals**:
  
 ## Additional Information 
 
