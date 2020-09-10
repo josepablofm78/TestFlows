@@ -9,7 +9,7 @@ assignees: ''
 
 ##  Basic Information
 
-Please fill in the following basic information about yourself
+Please fill in the following basic information about yourself.
 
 **Name / Organization / Alias**: 
 
@@ -24,15 +24,14 @@ Please fill in the following basic information about yourself
 **Intended Use Case / Allocation Plan**:
 
 **Contact Information**: 
- 
+
+**Links to prior approvals:
  
 ## Additional Information 
 
 You can also provide us more information you think could be relevant for us to check your identity or your use case.  
 
-
 ###### _Note: If you are not familiar with markdown language, use the Preview tab to make sure the tables are properly filled_
-
 
 ### Disclaimer
 
