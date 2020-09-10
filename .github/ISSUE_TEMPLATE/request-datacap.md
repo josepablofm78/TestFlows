@@ -40,7 +40,7 @@ You can also provide us more information you think could be relevant for us to c
 
 
 
-###### Note: If you are not familiarice with markdown language, use the Preview tab to make sure the tables are properly filled
+###### _Note: If you are not familiarice with markdown language, use the Preview tab to make sure the tables are properly filled_
 
 
 ### Disclaimer
