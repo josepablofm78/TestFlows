@@ -11,34 +11,24 @@ assignees: ''
 
 Please fill in the following basic information about yourself
 
-| Information                       | Value  |
-| ------------------------| ------------------------ |
-| Name / Organization / Alias             |             |                          
-| Public Profile (LinkedIn/Website/Other Proof)                   |             |                                
-| Data Cap Requested (Total Amount in GB)    |             |                                
-| Client Address     |             |       
+**Name / Organization / Alias**: 
 
+**Public Profile (LinkedIn/Website/Other Proof)**: 
+
+**Data Cap Requested (Total Amount in GB)**:   
 
 ## Optional Information 
   
-The  next information is optional but it will help us to know you better and trust you with datacap
+**Client Address(es)**:
 
-| Information                       | Value  |
-| ------------------------| ------------------------ |                   
-| Contact information           |                  |              
-|  Intended Use Case / Allocation Plan               |             |            
+**Intended Use Case / Allocation Plan**:
 
+**Contact Information**: 
  
  
 ## Additional Information 
 
-You can also provide us more information you think could be relevant for us to check your identity or your use case 
-
-| Information                       | Value  |
-| ------------------------| ------------------------ |    
-|             |             | 
-|             |             | 
-
+You can also provide us more information you think could be relevant for us to check your identity or your use case.  
 
 
 ###### _Note: If you are not familiarice with markdown language, use the Preview tab to make sure the tables are properly filled_
