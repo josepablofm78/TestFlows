@@ -1,7 +1,7 @@
 ---
 name: Request Datacap
 about: Users must open a new issue to request datacap for their addresses
-title: 'Verify Client. Request Datacap for Address: ${}'
+title: 'Data Cap Request for: [Organization Name]'
 labels: request
 assignees: ''
 
@@ -13,9 +13,11 @@ Please fill in the following basic information about yourself.
 
 **Name / Organization / Alias**: 
 
-**Public Profile (LinkedIn/Website/Other Proof)**: 
+**Public Profile of Organization**: 
 
-**Data Cap Requested (Total Amount in GB)**:   
+**Proof of Requester's association with Organization**:
+
+**Data Cap Requested (Total Amount)**:   
 
 ## Optional Information 
   
